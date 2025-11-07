@@ -1,6 +1,6 @@
 # Fylo Landing Page
 
-A responsive landing page built with **HTML** and **CSS** to showcase Fylo’s cloud storage and collaboration features.  
+A responsive landing page built with HTML and CSS to showcase Fylo’s cloud storage and collaboration features.
 
 ## 🧩 Features
 - Clean, modern layout  
@@ -13,9 +13,8 @@ A responsive landing page built with **HTML** and **CSS** to showcase Fylo’s c
 - Improved layout and styling skills  
 - Strengthened understanding of HTML structure  
 
-## 🖼️ Preview
-Add a screenshot or live site link here if available.  
-Example: [Live Demo]([https://yourusername.github.io/fylo-landing-page/](https://lukemmanyi.github.io/fylo-landing-page/))
+## 🖼️ Preview & Live Demo
+[Live Demo](https://lukemmanyi.github.io/fylo-landing-page/)  
 
 ## ⚙️ Tech Used
 - HTML  
