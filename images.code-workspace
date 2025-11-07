@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "images",
+			"path": "../../Downloads/fylo-landing-page-with-two-column-layout-master 2/images"
+		},
+		{
+			"name": "fylo-landing-page",
+			"path": "."
+		},
+		{
+			"name": "images",
+			"path": "../../Downloads/fylo-landing-page-with-two-column-layout-master 3/images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "fylo-landing-page"
+	}
+}
