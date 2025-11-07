@@ -1,2 +1,26 @@
-# fylo-landing-page
-A simple landing page made with HTML and CSS to practice modern web design and layout skills.
+# Fylo Landing Page
+
+A responsive landing page built with **HTML** and **CSS** to showcase Fylo’s cloud storage and collaboration features.  
+
+## 🧩 Features
+- Clean, modern layout  
+- Fully responsive design  
+- Organized file structure  
+- Built using semantic HTML and custom CSS  
+
+## 💡 What I Learned
+- Practiced responsive design using Flexbox  
+- Improved layout and styling skills  
+- Strengthened understanding of HTML structure  
+
+## 🖼️ Preview
+Add a screenshot or live site link here if available.  
+Example: [Live Demo](https://yourusername.github.io/fylo-landing-page/)
+
+## ⚙️ Tech Used
+- HTML  
+- CSS  
+
+---
+
+Made by Luke Mmanyi
