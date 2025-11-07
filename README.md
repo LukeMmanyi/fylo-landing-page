@@ -15,7 +15,7 @@ A responsive landing page built with **HTML** and **CSS** to showcase Fylo’s c
 
 ## 🖼️ Preview
 Add a screenshot or live site link here if available.  
-Example: [Live Demo](https://yourusername.github.io/fylo-landing-page/)
+Example: [Live Demo]([https://yourusername.github.io/fylo-landing-page/](https://lukemmanyi.github.io/fylo-landing-page/))
 
 ## ⚙️ Tech Used
 - HTML  
